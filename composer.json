@@ -1,0 +1,14 @@
+{
+    "name": "nick/dijkstra",
+    "description": "Implementation of Dijkstra's algorithm for study purposes",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Nick Breland",
+            "email": "npbreland@tutanota.com"
+        }
+    ],
+    "require": {}
+}
